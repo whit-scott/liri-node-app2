@@ -21,7 +21,6 @@ for (var i=3; i<nodeArgv.length; i++){
   }
 }
 
-//switch case
 switch(command){
   case "my-tweets":
     showTweets();
